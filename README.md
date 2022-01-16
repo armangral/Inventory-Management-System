@@ -3,7 +3,7 @@ An Inventory Management System using Python3 which includes CRUD functionality.
 
 **Instructions**
 
-1- Clone the repository using the following link  [Inventory Management System](https://github.com/abdulrehmanmangral/Inventory-Management-System.git) by adding **git clone**.
+1- Clone the repository using the following link  [Inventory Management System](https://github.com/armangral/Inventory-Management-System.git) by adding **git clone**.
 
 2- There is a requirements.txt file. Download this file by using the following command
 ```bash
